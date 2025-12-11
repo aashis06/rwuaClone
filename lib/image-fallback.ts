@@ -41,7 +41,6 @@ export const imageFallbacks: Record<string, string> = {
   'technical-2.jpg': 'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=600&h=400&fit=crop',
   'community-1.jpg': 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop',
   'community-2.jpg': 'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=600&h=400&fit=crop',
-  'event-1.jpg': 'https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop',
   
   // Success story images
   'story-1.jpg': 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&h=600&fit=crop',
