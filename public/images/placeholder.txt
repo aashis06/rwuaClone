@@ -1,0 +1,48 @@
+# Image Placeholder Directory
+
+This directory should contain the following images for the RWUA website:
+
+## Required Images:
+
+### Logo & Branding:
+- rwua-logo.png (Main logo - color version)
+- rwua-logo-white.png (White version for dark backgrounds)
+- favicon.ico (Website favicon)
+
+### Hero Section:
+- hero-slide-1.jpg (Main hero image - water infrastructure)
+- hero-slide-2.jpg (Community water project)
+- hero-slide-3.jpg (Team working on water systems)
+
+### About Section:
+- about-main.jpg (Team photo or water project)
+
+### Services Section:
+- service-water-supply.jpg
+- service-sanitation.jpg
+- service-community.jpg
+- service-consultation.jpg
+- service-maintenance.jpg
+- service-technology.jpg
+
+### News & Events:
+- news-1.jpg
+- news-2.jpg
+- news-3.jpg
+- event-1.jpg
+- event-2.jpg
+- event-3.jpg
+
+### Social Media & SEO:
+- og-image.jpg (1200x630 for Open Graph)
+- twitter-image.jpg (1200x600 for Twitter cards)
+
+## Image Guidelines:
+- Use high-quality images (minimum 1920x1080 for hero images)
+- Optimize for web (use WebP format when possible)
+- Ensure images are relevant to rural water and sanitation projects
+- Include proper alt text for accessibility
+- Compress images to reduce load times
+
+## Fallback:
+If images are not available, the components will use placeholder.jpg as fallback.
